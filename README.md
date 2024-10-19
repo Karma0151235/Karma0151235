@@ -58,6 +58,9 @@ I am a passionate final-year Computer Science student with a strong focus on dat
   <a href="https://www.instagram.com/stephen_twx/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://open.spotify.com/user/n2nezd4k66v106vdx4n1oizgh?si=e2f105a579fb4c10" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt ="Spotify"/>
+  </a>
   <a href="https://www.linkedin.com/in/stephen-tee-9297182a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
