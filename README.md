@@ -51,3 +51,14 @@ I am a passionate final-year Computer Science student with a strong focus on dat
   </a>
 </p>
 <br>
+
+### 🌐 Socials 
+<p align="left">
+<br>
+  <a href="https://www.instagram.com/stephen_twx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/stephen-tee-9297182a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
