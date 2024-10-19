@@ -46,6 +46,6 @@ I am a passionate final-year Computer Science student with a strong focus on dat
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="oracle" width="40" height="40"/>
     </a> 
 <br />
