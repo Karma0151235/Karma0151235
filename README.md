@@ -1,6 +1,5 @@
 # Welcome to Stephen's Profile 
 
-**`Data Enthusiast, Developer, Powerlifter`**
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Karma051235&label=Profile%20Views&color=b52218&style=flat" alt="Karma0151235" /> 
 </p>
