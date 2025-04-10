@@ -19,6 +19,7 @@ While I'm still early in my journey, I'm excited about the process of learning, 
 
 ## Languages 
 [![My Skills](https://skillicons.dev/icons?i=py,java,scala&perline=3)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
 
 ## Frameworks
