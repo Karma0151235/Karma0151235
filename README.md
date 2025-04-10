@@ -15,5 +15,12 @@ While I'm still early in my journey, I'm excited about the process of learning, 
   </a>
 </p>
 
+# Current Skills
 
-# 
+## Languages 
+[![My Skills](https://skillicons.dev/icons?i=py,java,scala&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=50)](https://skillicons.dev)
+
+## Frameworks
+
+
