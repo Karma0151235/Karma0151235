@@ -30,7 +30,6 @@ While I'm still early in my journey, I'm excited about the process of learning, 
 [![My Skills](https://skillicons.dev/icons?i=github,git,ubuntu,linux,figma,pycharm,idea,eclipse,vscode,anaconda&perline=15)](https://skillicons.dev)
 
 ## Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,r,rust,latex,matlab&perline=5)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind&perline=4)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=mongoDB&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,r,rust,latex,matlab,react,vue,tailwind,mongodb&perline=15)](https://skillicons.dev)<br>
+
 
