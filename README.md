@@ -15,12 +15,10 @@ While I'm still early in my journey, I'm excited about the process of learning, 
   </a>
 </p>
 
-# Skills (Current and Learning)
+# Skills 
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,scala&perline=3)](https://skillicons.dev)
-<br>[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
-<br>[![My Skills](https://skillicons.dev/icons?i=bash&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,scala,html,css,js,bash&perline=15)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
@@ -30,3 +28,7 @@ While I'm still early in my journey, I'm excited about the process of learning, 
 
 ## Tools 
 [![My Skills](https://skillicons.dev/icons?i=github,git,ubuntu,linux,figma,pycharm,idea,eclipse,vscode,anaconda&perline=15)](https://skillicons.dev)
+
+## Learning
+[![My Skills](https://skillicons.dev/icons?i=github,git,ubuntu,linux,figma,pycharm,idea,eclipse,vscode,anaconda&perline=15)](https://skillicons.dev)
+
