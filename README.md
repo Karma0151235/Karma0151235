@@ -1,6 +1,6 @@
 # Hi. 
 
-I'm a penultimate-semester Computer Science student with a deep interest in quantitative finance, mathematics, and research. I love exploring the intersection of statistical thinking, machine learning, and efficient software development — and I'm constantly learning to become a better problem solver and builder.
+I'm a penultimate-semester Computer Science student with a deep interest in data science, quantitative finance, and machine learning research. I love exploring the intersection of statistical thinking, machine learning, and efficient software development — and I'm constantly learning to become a better problem solver and builder.
 
 # Reaching Out
 
@@ -20,7 +20,6 @@ While I'm still early in my journey, I'm excited about the process of learning, 
 ## Tools 
 [![My Skills](https://skillicons.dev/icons?i=github,git,ubuntu,linux,figma,pycharm,idea,eclipse,vscode,anaconda&perline=15)](https://skillicons.dev)
 
-## Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,r,rust,latex,matlab,react,vue,tailwind,mongodb&perline=15)](https://skillicons.dev)<br>
+
 
 
