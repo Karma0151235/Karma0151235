@@ -1,6 +1,6 @@
 # Hi. 
 
-I'm a penultimate-semester Computer Science student with a deep interest in data science, quantitative finance, and machine learning research. I love exploring the intersection of statistical thinking, machine learning, and efficient software development — and I'm constantly learning to become a better problem solver and builder.
+I'm a penultimate-semester Computer Science student with a deep interest in data science, and machine learning research. I love exploring the intersection of statistical thinking, machine learning, and efficient software development — and I'm constantly learning to become a better problem solver and builder.
 
 # Reaching Out
 
