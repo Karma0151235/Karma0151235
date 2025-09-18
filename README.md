@@ -1,10 +1,10 @@
 # Hi. 
 
-I'm a penultimate-semester Computer Science student with a deep interest in data science, and machine learning research. I love exploring the intersection of statistical thinking, machine learning, and efficient software development — and I'm constantly learning to become a better problem solver and builder.
+I am a recent Computer Science graduate and a passionate learner whose aiming to build strong problem solving and software development skills. My interests lie in software engineering, data science and machine learning, mathematics and statistics, as well as competitive programming.
 
 # Reaching Out
 
-While I'm still early in my journey, I'm excited about the process of learning, improving, and building meaningful things along the way. If you'd like to collaborate on interesting and impactful projects together, please feel free to connect with me through my socials!
+If you'd like to collaborate on interesting and impactful projects together, please feel free to connect with me through my socials!
 
 # Skills 
 
