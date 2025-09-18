@@ -21,6 +21,3 @@ If you'd like to collaborate on interesting and impactful projects together, ple
 [![My Skills](https://skillicons.dev/icons?i=git,linux,pycharm,vscode&perline=15)](https://skillicons.dev)
 
 
-
-
-
