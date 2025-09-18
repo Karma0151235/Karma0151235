@@ -9,7 +9,7 @@ While I'm still early in my journey, I'm excited about the process of learning, 
 # Skills 
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,c++,html,css,js,bash&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,js,bash&perline=15)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
