@@ -9,13 +9,10 @@ If you'd like to collaborate on interesting and impactful projects together, ple
 # Skills 
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,js,bash&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash&perline=15)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
-
-## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3)](https://skillicons.dev)
 
 ## Tools 
 [![My Skills](https://skillicons.dev/icons?i=git,linux,pycharm,vscode&perline=15)](https://skillicons.dev)
