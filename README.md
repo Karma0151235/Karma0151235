@@ -1,6 +1,6 @@
 # Hi. 
 
-I am a recent Computer Science graduate and a passionate learner whose aiming to build strong problem solving and software development skills. My interests lie in software engineering, data science and machine learning, mathematics and statistics, as well as competitive programming.
+I am a recent Computer Science graduate and a passionate learner whose aiming to build strong problem solving and software development skills. My interests lie in low-level software engineering, machine learning, and statistics.
 
 # Reaching Out
 
