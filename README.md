@@ -15,6 +15,6 @@ If you'd like to collaborate on interesting and impactful projects together, ple
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
 
 ## Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,bash,pycharm,vscode&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,bash,vscode&perline=15)](https://skillicons.dev)
 
 
