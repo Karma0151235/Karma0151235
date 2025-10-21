@@ -1,4 +1,4 @@
-# Hi. 
+# About Me
 
 I am a recent Computer Science graduate and a passionate learner whose aiming to build strong problem solving and software development skills. My interests lie in low-level software engineering, machine learning, and statistics.
 
